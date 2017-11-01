@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Game discounts</string>
     <string name="no_internet">No internet connection</string>
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_deals">Resent Deals</string>
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_wish_list">Wish list</string>
 </resources>
